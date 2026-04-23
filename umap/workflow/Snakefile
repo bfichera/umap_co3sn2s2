@@ -1,23 +1,16 @@
-# WINDOW_SIZES = [30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 120, 140]
-# WINDOW_STEPSIZES = [10]
-# TTCFS_I = [0]
-# TTCFS_J = [0]
-# TAGS= [
-#     "In012-cool-1",
-#     "In012-cool-2",
-#     "In012-heat-1",
-#     "In030-cool-1",
-#     "In030-cool-2",
-#     "undoped-cool-1",
-#     "undoped-cool-2",
-#     "undoped-heat-1",
-# ]
-WINDOW_SIZES = [30]
-WINDOW_STEPSIZES = [10]
-TTCFS_I = [0]
-TTCFS_J = [0]
+WINDOW_SIZES = [2*(i+1) for i in range(15)]
+WINDOW_STEPSIZES = [2*(i+1) for i in range(5)]
+TTCFS_I = [25]
+TTCFS_J = [25]
 TAGS= [
     "In012-cool-1",
+    "In012-cool-2",
+    "In012-heat-1",
+    "In030-cool-1",
+    "In030-cool-2",
+    "undoped-cool-1",
+    "undoped-cool-2",
+    "undoped-heat-1",
 ]
 
 
