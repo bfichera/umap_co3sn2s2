@@ -24,14 +24,14 @@ rule all:
         expand(
             "plots/{tag}/window_length_{window_size}/window_stepsize_{window_stepsize}",
             window_size=WINDOW_SIZES,
-            window_stepsize=WINDOW_stepsizeS,
+            window_stepsize=WINDOW_STEPSIZES,
             tag=TAGS,
         )
 
 rule make_plots:
     input:
         script="workflow/scripts/make_plots.py",
-        results="results/tag_{tag}/window_size_{window_size}/window_stepsize_{window_stepsize}/results.pkl"
+        results="results/{tag}/window_size_{window_size}/window_stepsize_{window_stepsize}/results.pkl"
     output:
         directory("plots/{tag}/window_length_{window_size}/window_stepsize_{window_stepsize}")
     threads: 1
@@ -44,7 +44,7 @@ rule make_plots:
 
 rule single:
     input:
-        data="../data/Co3Sn2-xInxS2_MCD/{tag}",
+        data="../data/Co3Sn2-xInxS2_MCD/{tag}.h5",
         script="workflow/scripts/umap.py",
     output:
         protected("results/{tag}/window_size_{window_size}/window_stepsize_{window_stepsize}/results.pkl")
