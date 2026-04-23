@@ -17,7 +17,7 @@ from UMAP_RGB.utils.UMAP_RGB import UMAP
 def load(path):
     with open(path, 'rb') as fh:
         h5 = h5py.File(fh)
-    return np.moveaxis(h5['magnetization'], 2, 0)
+        return np.moveaxis(h5['magnetization'][...], 2, 0)
 
 
 parser = argparse.ArgumentParser()
