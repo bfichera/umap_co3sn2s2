@@ -1,0 +1,63 @@
+WINDOW_SIZES = [30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 120, 140]
+WINDOW_STEPSIZES = [10]
+TTCFS_I = [0]
+TTCFS_J = [0]
+TAGS= [
+    "In012-cool-1",
+    "In012-cool-2",
+    "In012-heat-1",
+    "In030-cool-1",
+    "In030-cool-2",
+    "undoped-cool-1",
+    "undoped-cool-2",
+    "undoped-heat-1",
+]
+
+
+
+wildcard_constraints:
+    window_size=r"\d+",
+    window_stepsize=r"\d+"
+
+rule all:
+    input:
+        expand(
+            "plots/{tag}/window_length_{window_size}/window_stepsize_{window_stepsize}",
+            window_size=WINDOW_SIZES,
+            window_stepsize=WINDOW_stepsizeS,
+            tag=TAGS,
+        )
+
+rule make_plots:
+    input:
+        script="workflow/scripts/make_plots.py",
+        results="results/tag_{tag}/window_size_{window_size}/window_stepsize_{window_stepsize}/results.pkl"
+    output:
+        directory("plots/{tag}/window_length_{window_size}/window_stepsize_{window_stepsize}")
+    threads: 1
+    resources:
+        nodes=1,
+        mem_str=16,
+        runtime=600,
+    shell:
+        "mkdir -p {output} && workflow/envs/venv/bin/python {input.script} --results_path {input.results} --output-dir {output} --extension .pdf --ttcfs_i {TTCFS_I} --ttcfs_j {TTCFS_J}"
+
+rule single:
+    input:
+        data="../data/Co3Sn2-xInxS2_MCD/{tag}",
+        script="workflow/scripts/umap.py",
+    output:
+        protected("results/{tag}/window_size_{window_size}/window_stepsize_{window_stepsize}/results.pkl")
+    threads: 16
+    resources:
+        nodes=1,
+        mem_str="256gb",
+        runtime=28800
+    shell:
+        "module load cuda; module load gcc; \
+         NUMBA_NUM_THREADS={threads} \
+         MKL_NUM_THREADS={threads} \
+         OMP_NUM_THREADS={threads} \
+         NUMBA_THREADING_LAYER=workqueue \
+         UMAP_SKYRMION_DATA={input.data} \
+         workflow/envs/venv/bin/python {input.script} --data-path {input.data} --window-length {wildcards.window_size} --window-stepsize {wildcards.window_stepsize} --recorder-path {output}"
