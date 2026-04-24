@@ -1,7 +1,7 @@
 WINDOW_SIZES = [2*(i+1) for i in range(15)]
 WINDOW_STEPSIZES = [2*(i+1) for i in range(5)]
-TTCFS_I = [25]
-TTCFS_J = [25]
+TTCFS_I = [0.5]
+TTCFS_J = [0.5]
 TAGS= [
     "In012-cool-1",
     "In012-cool-2",
