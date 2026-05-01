@@ -1,0 +1,52 @@
+\documentclass{beamer}
+\usepackage{tikz}
+\usetikzlibrary{calc,tikzmark}
+
+\tikzset{
+    frame/.style={draw=black,thick,inner sep=0},
+    pics/singleoverlay/.style n args={3}{
+        code={
+            \begin{scope}[transparency group,opacity=1.0]
+                \node (-overlaybb) at (0,0) [anchor=north west,frame] {\includegraphics[height=2.5cm]{../plots/#1/window_length_#2/window_stepsize_#3/img_stk_000_0.pdf}};
+            \end{scope}
+            \begin{scope}[transparency group,opacity=0.7]
+            \node (-rgbbb) at (0,0) [anchor=north west,frame,transparency group] {\includegraphics[height=2.5cm]{../plots/#1/window_length_#2/window_stepsize_#3/low_res_rgb.pdf}};
+            \end{scope}
+            \node at (-rgbbb.north) [anchor=south] {\footnotesize $L=#2, \Delta x=#3$};
+        }
+    },
+    pics/singledata/.style n args={1}{
+        code={
+            \node (-bb) at (0,0) [anchor=north west,frame] {\includegraphics[height=2.5cm]{../plots/#1/window_length_2/window_stepsize_2/img_stk_000_0.pdf}};
+        }
+    }
+}
+
+\begin{document}
+
+\foreach \tagname in {
+    In012-cool-1,
+    In012-cool-2,
+    In012-heat-1,
+    In030-cool-1,
+    In030-cool-2,
+    undoped-cool-1,
+    undoped-cool-2,
+    undoped-heat-1%
+} {
+    \begin{frame}
+    \begin{tikzpicture}[remember picture,overlay]
+        \node (bounds) at (current page.north west) [anchor=north west,minimum width=\paperwidth,minimum height=\paperheight] {};
+        \node (title) at (bounds.north) [anchor=north,minimum width=\paperwidth] {\texttt{\tagname}};
+        \draw (title.south west) -- (title.south east);
+        \pic (lowtemp) at (bounds.west) [pic anchor=(-bb.west)] {singledata={\tagname}};
+        \path (lowtemp-bb.east|-title.south) coordinate (c) -- (current page.east|-title.south) coordinate (d);
+        \matrix at ( $(c)!0.5!(d)$ ) [anchor=north,column sep=1cm,row sep=1cm,ampersand replacement=\&] {
+            \pic {singleoverlay={\tagname}{4}{2}}; \& \pic {singleoverlay={\tagname}{8}{2}}; \& \pic {singleoverlay={\tagname}{12}{2}}; \\
+            \pic {singleoverlay={\tagname}{16}{2}}; \& \pic {singleoverlay={\tagname}{20}{2}}; \& \pic {singleoverlay={\tagname}{24}{2}}; \\
+        };
+    \end{tikzpicture}
+    \end{frame}
+}
+
+\end{document}

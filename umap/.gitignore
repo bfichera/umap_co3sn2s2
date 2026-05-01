@@ -1,3 +1,4 @@
 snakejob*
 *.pyc
 results/
+.DS_Store
