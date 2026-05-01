@@ -7,7 +7,7 @@
     pics/singleoverlay/.style n args={3}{
         code={
             \begin{scope}[transparency group,opacity=1.0]
-                \node (-overlaybb) at (0,0) [anchor=north west,frame] {\includegraphics[height=2.5cm]{../plots/#1/window_length_#2/window_stepsize_#3/img_stk_000_0.pdf}};
+                \node (-overlaybb) at (0,0) [anchor=north west,frame] {\includegraphics[height=2.5cm]{../plots/#1/window_length_#2/window_stepsize_#3/img_stk_last_0.pdf}};
             \end{scope}
             \begin{scope}[transparency group,opacity=0.7]
             \node (-rgbbb) at (0,0) [anchor=north west,frame,transparency group] {\includegraphics[height=2.5cm]{../plots/#1/window_length_#2/window_stepsize_#3/low_res_rgb.pdf}};
@@ -17,7 +17,7 @@
     },
     pics/singledata/.style n args={1}{
         code={
-            \node (-bb) at (0,0) [anchor=north west,frame] {\includegraphics[height=2.5cm]{../plots/#1/window_length_2/window_stepsize_2/img_stk_000_0.pdf}};
+            \node (-bb) at (0,0) [anchor=north west,frame] {\includegraphics[height=2.5cm]{../plots/#1/window_length_2/window_stepsize_2/img_stk_last_0.pdf}};
         }
     }
 }
@@ -41,7 +41,7 @@
         \draw (title.south west) -- (title.south east);
         \pic (lowtemp) at (bounds.west) [pic anchor=(-bb.west)] {singledata={\tagname}};
         \path (lowtemp-bb.east|-title.south) coordinate (c) -- (current page.east|-title.south) coordinate (d);
-        \matrix at ( $(c)!0.5!(d)$ ) [anchor=north,column sep=1cm,row sep=1cm,ampersand replacement=\&] {
+        \matrix at ( $(c|-bounds.west)!0.5!(d|-bounds.west)$ ) [anchor=center,column sep=0.5cm,row sep=0.5cm,ampersand replacement=\&] {
             \pic {singleoverlay={\tagname}{4}{2}}; \& \pic {singleoverlay={\tagname}{8}{2}}; \& \pic {singleoverlay={\tagname}{12}{2}}; \\
             \pic {singleoverlay={\tagname}{16}{2}}; \& \pic {singleoverlay={\tagname}{20}{2}}; \& \pic {singleoverlay={\tagname}{24}{2}}; \\
         };

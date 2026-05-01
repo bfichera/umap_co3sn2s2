@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.25)  1 MAY 2026 10:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.25)  1 MAY 2026 11:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -956,23 +956,23 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (.build/summary.nav)
-<../plots/In012-cool-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf, id=
-13, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In012-cool-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf>
-
+<../plots/In012-cool-1/window_length_2/window_stepsize_2/img_stk_last_0.pdf, id
+=13, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-1/window_length_2/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In012-cool-1/window_length_2/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In012-cool-1/window_length_2/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
-<../plots/In012-cool-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf, id=
-14, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In012-cool-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf>
-
+<../plots/In012-cool-1/window_length_4/window_stepsize_2/img_stk_last_0.pdf, id
+=14, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-1/window_length_4/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In012-cool-1/window_length_4/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In012-cool-1/window_length_4/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-cool-1/window_length_4/window_stepsize_2/low_res_rgb.pdf, id=16
 , 267.10992pt x 267.10992pt>
@@ -1001,14 +1001,14 @@ ut line 50.
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-<../plots/In012-cool-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf, id=
-18, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In012-cool-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf>
-
+<../plots/In012-cool-1/window_length_8/window_stepsize_2/img_stk_last_0.pdf, id
+=18, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-1/window_length_8/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In012-cool-1/window_length_8/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In012-cool-1/window_length_8/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-cool-1/window_length_8/window_stepsize_2/low_res_rgb.pdf, id=20
 , 267.10992pt x 267.10992pt>
@@ -1018,14 +1018,14 @@ raphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-cool-1/window_length_8/window_stepsize_
 2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-cool-1/window_length_12/window_stepsize_2/img_stk_000_0.pdf, id
-=22, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-1/window_length_12/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In012-cool-1/window_length_12/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In012-cool-1/window_length_12/window_stepsize_2/img_stk_last_0.pdf, i
+d=22, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-1/window_length_12/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In012-cool-1/window_length_12/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In012-cool-1/window_length_12/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-cool-1/window_length_12/window_stepsize_2/low_res_rgb.pdf, id=2
 4, 267.10992pt x 267.10992pt>
@@ -1035,14 +1035,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-cool-1/window_length_12/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-cool-1/window_length_16/window_stepsize_2/img_stk_000_0.pdf, id
-=26, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-1/window_length_16/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In012-cool-1/window_length_16/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In012-cool-1/window_length_16/window_stepsize_2/img_stk_last_0.pdf, i
+d=26, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-1/window_length_16/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In012-cool-1/window_length_16/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In012-cool-1/window_length_16/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-cool-1/window_length_16/window_stepsize_2/low_res_rgb.pdf, id=2
 8, 267.10992pt x 267.10992pt>
@@ -1052,14 +1052,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-cool-1/window_length_16/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-cool-1/window_length_20/window_stepsize_2/img_stk_000_0.pdf, id
-=30, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-1/window_length_20/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In012-cool-1/window_length_20/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In012-cool-1/window_length_20/window_stepsize_2/img_stk_last_0.pdf, i
+d=30, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-1/window_length_20/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In012-cool-1/window_length_20/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In012-cool-1/window_length_20/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-cool-1/window_length_20/window_stepsize_2/low_res_rgb.pdf, id=3
 2, 267.10992pt x 267.10992pt>
@@ -1069,14 +1069,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-cool-1/window_length_20/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-cool-1/window_length_24/window_stepsize_2/img_stk_000_0.pdf, id
-=34, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-1/window_length_24/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In012-cool-1/window_length_24/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In012-cool-1/window_length_24/window_stepsize_2/img_stk_last_0.pdf, i
+d=34, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-1/window_length_24/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In012-cool-1/window_length_24/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In012-cool-1/window_length_24/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-cool-1/window_length_24/window_stepsize_2/low_res_rgb.pdf, id=3
 6, 267.10992pt x 267.10992pt>
@@ -1089,36 +1089,36 @@ _2/low_res_rgb.pdf  used on input line 50.
  [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../plot
-s/In012-cool-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf> <../plots/I
-n012-cool-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf> <../plots/In01
-2-cool-1/window_length_4/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-coo
-l-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf> <../plots/In012-cool-1
-/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool-1/wind
-ow_length_12/window_stepsize_2/img_stk_000_0.pdf> <../plots/In012-cool-1/window
-_length_12/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool-1/window_len
-gth_16/window_stepsize_2/img_stk_000_0.pdf> <../plots/In012-cool-1/window_lengt
-h_16/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool-1/window_length_20
-/window_stepsize_2/img_stk_000_0.pdf> <../plots/In012-cool-1/window_length_20/w
-indow_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool-1/window_length_24/windo
-w_stepsize_2/img_stk_000_0.pdf> <../plots/In012-cool-1/window_length_24/window_
-stepsize_2/low_res_rgb.pdf>]
-<../plots/In012-cool-2/window_length_2/window_stepsize_2/img_stk_000_0.pdf, id=
-121, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-2/window_length_2/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In012-cool-2/window_length_2/window_stepsize_2/img_stk_000_0.pdf>
-
+s/In012-cool-1/window_length_2/window_stepsize_2/img_stk_last_0.pdf> <../plots/
+In012-cool-1/window_length_4/window_stepsize_2/img_stk_last_0.pdf> <../plots/In
+012-cool-1/window_length_4/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-c
+ool-1/window_length_8/window_stepsize_2/img_stk_last_0.pdf> <../plots/In012-coo
+l-1/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool-1/w
+indow_length_12/window_stepsize_2/img_stk_last_0.pdf> <../plots/In012-cool-1/wi
+ndow_length_12/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool-1/window
+_length_16/window_stepsize_2/img_stk_last_0.pdf> <../plots/In012-cool-1/window_
+length_16/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool-1/window_leng
+th_20/window_stepsize_2/img_stk_last_0.pdf> <../plots/In012-cool-1/window_lengt
+h_20/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool-1/window_length_24
+/window_stepsize_2/img_stk_last_0.pdf> <../plots/In012-cool-1/window_length_24/
+window_stepsize_2/low_res_rgb.pdf>]
+<../plots/In012-cool-2/window_length_2/window_stepsize_2/img_stk_last_0.pdf, id
+=121, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-2/window_length_2/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In012-cool-2/window_length_2/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In012-cool-2/window_length_2/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
-<../plots/In012-cool-2/window_length_4/window_stepsize_2/img_stk_000_0.pdf, id=
-122, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-2/window_length_4/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In012-cool-2/window_length_4/window_stepsize_2/img_stk_000_0.pdf>
-
+<../plots/In012-cool-2/window_length_4/window_stepsize_2/img_stk_last_0.pdf, id
+=122, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-2/window_length_4/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In012-cool-2/window_length_4/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In012-cool-2/window_length_4/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-cool-2/window_length_4/window_stepsize_2/low_res_rgb.pdf, id=12
 4, 267.10992pt x 267.10992pt>
@@ -1128,14 +1128,14 @@ raphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-cool-2/window_length_4/window_stepsize_
 2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-cool-2/window_length_8/window_stepsize_2/img_stk_000_0.pdf, id=
-126, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-2/window_length_8/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In012-cool-2/window_length_8/window_stepsize_2/img_stk_000_0.pdf>
-
+<../plots/In012-cool-2/window_length_8/window_stepsize_2/img_stk_last_0.pdf, id
+=126, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-2/window_length_8/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In012-cool-2/window_length_8/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In012-cool-2/window_length_8/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-cool-2/window_length_8/window_stepsize_2/low_res_rgb.pdf, id=12
 8, 267.10992pt x 267.10992pt>
@@ -1145,14 +1145,14 @@ raphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-cool-2/window_length_8/window_stepsize_
 2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-cool-2/window_length_12/window_stepsize_2/img_stk_000_0.pdf, id
-=130, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-2/window_length_12/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In012-cool-2/window_length_12/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In012-cool-2/window_length_12/window_stepsize_2/img_stk_last_0.pdf, i
+d=130, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-2/window_length_12/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In012-cool-2/window_length_12/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In012-cool-2/window_length_12/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-cool-2/window_length_12/window_stepsize_2/low_res_rgb.pdf, id=1
 32, 267.10992pt x 267.10992pt>
@@ -1162,14 +1162,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-cool-2/window_length_12/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-cool-2/window_length_16/window_stepsize_2/img_stk_000_0.pdf, id
-=134, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-2/window_length_16/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In012-cool-2/window_length_16/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In012-cool-2/window_length_16/window_stepsize_2/img_stk_last_0.pdf, i
+d=134, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-2/window_length_16/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In012-cool-2/window_length_16/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In012-cool-2/window_length_16/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-cool-2/window_length_16/window_stepsize_2/low_res_rgb.pdf, id=1
 36, 267.10992pt x 267.10992pt>
@@ -1179,14 +1179,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-cool-2/window_length_16/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-cool-2/window_length_20/window_stepsize_2/img_stk_000_0.pdf, id
-=138, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-2/window_length_20/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In012-cool-2/window_length_20/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In012-cool-2/window_length_20/window_stepsize_2/img_stk_last_0.pdf, i
+d=138, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-2/window_length_20/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In012-cool-2/window_length_20/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In012-cool-2/window_length_20/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-cool-2/window_length_20/window_stepsize_2/low_res_rgb.pdf, id=1
 40, 267.10992pt x 267.10992pt>
@@ -1196,14 +1196,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-cool-2/window_length_20/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-cool-2/window_length_24/window_stepsize_2/img_stk_000_0.pdf, id
-=142, 36.135pt x 36.135pt>
-File: ../plots/In012-cool-2/window_length_24/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In012-cool-2/window_length_24/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In012-cool-2/window_length_24/window_stepsize_2/img_stk_last_0.pdf, i
+d=142, 36.135pt x 36.135pt>
+File: ../plots/In012-cool-2/window_length_24/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In012-cool-2/window_length_24/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In012-cool-2/window_length_24/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-cool-2/window_length_24/window_stepsize_2/low_res_rgb.pdf, id=1
 44, 267.10992pt x 267.10992pt>
@@ -1215,36 +1215,36 @@ _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
  [2
 
- <../plots/In012-cool-2/window_length_2/window_stepsize_2/img_stk_000_0.pdf> <.
-./plots/In012-cool-2/window_length_4/window_stepsize_2/img_stk_000_0.pdf> <../p
-lots/In012-cool-2/window_length_4/window_stepsize_2/low_res_rgb.pdf> <../plots/
-In012-cool-2/window_length_8/window_stepsize_2/img_stk_000_0.pdf> <../plots/In0
-12-cool-2/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-co
-ol-2/window_length_12/window_stepsize_2/img_stk_000_0.pdf> <../plots/In012-cool
--2/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool-2/w
-indow_length_16/window_stepsize_2/img_stk_000_0.pdf> <../plots/In012-cool-2/win
-dow_length_16/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool-2/window_
-length_20/window_stepsize_2/img_stk_000_0.pdf> <../plots/In012-cool-2/window_le
-ngth_20/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool-2/window_length
-_24/window_stepsize_2/img_stk_000_0.pdf> <../plots/In012-cool-2/window_length_2
-4/window_stepsize_2/low_res_rgb.pdf>]
-<../plots/In012-heat-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf, id=
-223, 36.135pt x 36.135pt>
-File: ../plots/In012-heat-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In012-heat-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf>
-
+ <../plots/In012-cool-2/window_length_2/window_stepsize_2/img_stk_last_0.pdf> <
+../plots/In012-cool-2/window_length_4/window_stepsize_2/img_stk_last_0.pdf> <..
+/plots/In012-cool-2/window_length_4/window_stepsize_2/low_res_rgb.pdf> <../plot
+s/In012-cool-2/window_length_8/window_stepsize_2/img_stk_last_0.pdf> <../plots/
+In012-cool-2/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../plots/In012
+-cool-2/window_length_12/window_stepsize_2/img_stk_last_0.pdf> <../plots/In012-
+cool-2/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool
+-2/window_length_16/window_stepsize_2/img_stk_last_0.pdf> <../plots/In012-cool-
+2/window_length_16/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool-2/wi
+ndow_length_20/window_stepsize_2/img_stk_last_0.pdf> <../plots/In012-cool-2/win
+dow_length_20/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-cool-2/window_
+length_24/window_stepsize_2/img_stk_last_0.pdf> <../plots/In012-cool-2/window_l
+ength_24/window_stepsize_2/low_res_rgb.pdf>]
+<../plots/In012-heat-1/window_length_2/window_stepsize_2/img_stk_last_0.pdf, id
+=223, 36.135pt x 36.135pt>
+File: ../plots/In012-heat-1/window_length_2/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In012-heat-1/window_length_2/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In012-heat-1/window_length_2/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
-<../plots/In012-heat-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf, id=
-224, 36.135pt x 36.135pt>
-File: ../plots/In012-heat-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In012-heat-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf>
-
+<../plots/In012-heat-1/window_length_4/window_stepsize_2/img_stk_last_0.pdf, id
+=224, 36.135pt x 36.135pt>
+File: ../plots/In012-heat-1/window_length_4/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In012-heat-1/window_length_4/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In012-heat-1/window_length_4/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-heat-1/window_length_4/window_stepsize_2/low_res_rgb.pdf, id=22
 6, 267.10992pt x 267.10992pt>
@@ -1254,14 +1254,14 @@ raphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-heat-1/window_length_4/window_stepsize_
 2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-heat-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf, id=
-228, 36.135pt x 36.135pt>
-File: ../plots/In012-heat-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In012-heat-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf>
-
+<../plots/In012-heat-1/window_length_8/window_stepsize_2/img_stk_last_0.pdf, id
+=228, 36.135pt x 36.135pt>
+File: ../plots/In012-heat-1/window_length_8/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In012-heat-1/window_length_8/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In012-heat-1/window_length_8/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-heat-1/window_length_8/window_stepsize_2/low_res_rgb.pdf, id=23
 0, 267.10992pt x 267.10992pt>
@@ -1271,14 +1271,14 @@ raphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-heat-1/window_length_8/window_stepsize_
 2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-heat-1/window_length_12/window_stepsize_2/img_stk_000_0.pdf, id
-=232, 36.135pt x 36.135pt>
-File: ../plots/In012-heat-1/window_length_12/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In012-heat-1/window_length_12/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In012-heat-1/window_length_12/window_stepsize_2/img_stk_last_0.pdf, i
+d=232, 36.135pt x 36.135pt>
+File: ../plots/In012-heat-1/window_length_12/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In012-heat-1/window_length_12/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In012-heat-1/window_length_12/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-heat-1/window_length_12/window_stepsize_2/low_res_rgb.pdf, id=2
 34, 267.10992pt x 267.10992pt>
@@ -1288,14 +1288,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-heat-1/window_length_12/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-heat-1/window_length_16/window_stepsize_2/img_stk_000_0.pdf, id
-=236, 36.135pt x 36.135pt>
-File: ../plots/In012-heat-1/window_length_16/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In012-heat-1/window_length_16/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In012-heat-1/window_length_16/window_stepsize_2/img_stk_last_0.pdf, i
+d=236, 36.135pt x 36.135pt>
+File: ../plots/In012-heat-1/window_length_16/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In012-heat-1/window_length_16/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In012-heat-1/window_length_16/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-heat-1/window_length_16/window_stepsize_2/low_res_rgb.pdf, id=2
 38, 267.10992pt x 267.10992pt>
@@ -1305,14 +1305,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-heat-1/window_length_16/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-heat-1/window_length_20/window_stepsize_2/img_stk_000_0.pdf, id
-=240, 36.135pt x 36.135pt>
-File: ../plots/In012-heat-1/window_length_20/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In012-heat-1/window_length_20/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In012-heat-1/window_length_20/window_stepsize_2/img_stk_last_0.pdf, i
+d=240, 36.135pt x 36.135pt>
+File: ../plots/In012-heat-1/window_length_20/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In012-heat-1/window_length_20/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In012-heat-1/window_length_20/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-heat-1/window_length_20/window_stepsize_2/low_res_rgb.pdf, id=2
 42, 267.10992pt x 267.10992pt>
@@ -1322,14 +1322,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-heat-1/window_length_20/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In012-heat-1/window_length_24/window_stepsize_2/img_stk_000_0.pdf, id
-=244, 36.135pt x 36.135pt>
-File: ../plots/In012-heat-1/window_length_24/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In012-heat-1/window_length_24/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In012-heat-1/window_length_24/window_stepsize_2/img_stk_last_0.pdf, i
+d=244, 36.135pt x 36.135pt>
+File: ../plots/In012-heat-1/window_length_24/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In012-heat-1/window_length_24/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In012-heat-1/window_length_24/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In012-heat-1/window_length_24/window_stepsize_2/low_res_rgb.pdf, id=2
 46, 267.10992pt x 267.10992pt>
@@ -1339,39 +1339,38 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In012-heat-1/window_length_24/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
+ [3
 
-[3
-
- <../plots/In012-heat-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf> <.
-./plots/In012-heat-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf> <../p
-lots/In012-heat-1/window_length_4/window_stepsize_2/low_res_rgb.pdf> <../plots/
-In012-heat-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf> <../plots/In0
-12-heat-1/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-he
-at-1/window_length_12/window_stepsize_2/img_stk_000_0.pdf> <../plots/In012-heat
--1/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-heat-1/w
-indow_length_16/window_stepsize_2/img_stk_000_0.pdf> <../plots/In012-heat-1/win
-dow_length_16/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-heat-1/window_
-length_20/window_stepsize_2/img_stk_000_0.pdf> <../plots/In012-heat-1/window_le
-ngth_20/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-heat-1/window_length
-_24/window_stepsize_2/img_stk_000_0.pdf> <../plots/In012-heat-1/window_length_2
-4/window_stepsize_2/low_res_rgb.pdf>]
-<../plots/In030-cool-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf, id=
-324, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In030-cool-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf>
-
+ <../plots/In012-heat-1/window_length_2/window_stepsize_2/img_stk_last_0.pdf> <
+../plots/In012-heat-1/window_length_4/window_stepsize_2/img_stk_last_0.pdf> <..
+/plots/In012-heat-1/window_length_4/window_stepsize_2/low_res_rgb.pdf> <../plot
+s/In012-heat-1/window_length_8/window_stepsize_2/img_stk_last_0.pdf> <../plots/
+In012-heat-1/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../plots/In012
+-heat-1/window_length_12/window_stepsize_2/img_stk_last_0.pdf> <../plots/In012-
+heat-1/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-heat
+-1/window_length_16/window_stepsize_2/img_stk_last_0.pdf> <../plots/In012-heat-
+1/window_length_16/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-heat-1/wi
+ndow_length_20/window_stepsize_2/img_stk_last_0.pdf> <../plots/In012-heat-1/win
+dow_length_20/window_stepsize_2/low_res_rgb.pdf> <../plots/In012-heat-1/window_
+length_24/window_stepsize_2/img_stk_last_0.pdf> <../plots/In012-heat-1/window_l
+ength_24/window_stepsize_2/low_res_rgb.pdf>]
+<../plots/In030-cool-1/window_length_2/window_stepsize_2/img_stk_last_0.pdf, id
+=324, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-1/window_length_2/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In030-cool-1/window_length_2/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In030-cool-1/window_length_2/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
-<../plots/In030-cool-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf, id=
-325, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In030-cool-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf>
-
+<../plots/In030-cool-1/window_length_4/window_stepsize_2/img_stk_last_0.pdf, id
+=325, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-1/window_length_4/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In030-cool-1/window_length_4/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In030-cool-1/window_length_4/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In030-cool-1/window_length_4/window_stepsize_2/low_res_rgb.pdf, id=32
 7, 267.10992pt x 267.10992pt>
@@ -1381,14 +1380,14 @@ raphic file (type pdf)
 Package pdftex.def Info: ../plots/In030-cool-1/window_length_4/window_stepsize_
 2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In030-cool-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf, id=
-329, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In030-cool-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf>
-
+<../plots/In030-cool-1/window_length_8/window_stepsize_2/img_stk_last_0.pdf, id
+=329, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-1/window_length_8/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In030-cool-1/window_length_8/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In030-cool-1/window_length_8/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In030-cool-1/window_length_8/window_stepsize_2/low_res_rgb.pdf, id=33
 1, 267.10992pt x 267.10992pt>
@@ -1398,14 +1397,14 @@ raphic file (type pdf)
 Package pdftex.def Info: ../plots/In030-cool-1/window_length_8/window_stepsize_
 2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In030-cool-1/window_length_12/window_stepsize_2/img_stk_000_0.pdf, id
-=333, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-1/window_length_12/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In030-cool-1/window_length_12/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In030-cool-1/window_length_12/window_stepsize_2/img_stk_last_0.pdf, i
+d=333, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-1/window_length_12/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In030-cool-1/window_length_12/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In030-cool-1/window_length_12/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In030-cool-1/window_length_12/window_stepsize_2/low_res_rgb.pdf, id=3
 35, 267.10992pt x 267.10992pt>
@@ -1415,14 +1414,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In030-cool-1/window_length_12/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In030-cool-1/window_length_16/window_stepsize_2/img_stk_000_0.pdf, id
-=337, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-1/window_length_16/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In030-cool-1/window_length_16/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In030-cool-1/window_length_16/window_stepsize_2/img_stk_last_0.pdf, i
+d=337, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-1/window_length_16/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In030-cool-1/window_length_16/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In030-cool-1/window_length_16/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In030-cool-1/window_length_16/window_stepsize_2/low_res_rgb.pdf, id=3
 39, 267.10992pt x 267.10992pt>
@@ -1432,14 +1431,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In030-cool-1/window_length_16/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In030-cool-1/window_length_20/window_stepsize_2/img_stk_000_0.pdf, id
-=341, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-1/window_length_20/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In030-cool-1/window_length_20/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In030-cool-1/window_length_20/window_stepsize_2/img_stk_last_0.pdf, i
+d=341, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-1/window_length_20/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In030-cool-1/window_length_20/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In030-cool-1/window_length_20/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In030-cool-1/window_length_20/window_stepsize_2/low_res_rgb.pdf, id=3
 43, 267.10992pt x 267.10992pt>
@@ -1449,14 +1448,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In030-cool-1/window_length_20/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In030-cool-1/window_length_24/window_stepsize_2/img_stk_000_0.pdf, id
-=345, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-1/window_length_24/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In030-cool-1/window_length_24/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In030-cool-1/window_length_24/window_stepsize_2/img_stk_last_0.pdf, i
+d=345, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-1/window_length_24/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In030-cool-1/window_length_24/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In030-cool-1/window_length_24/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In030-cool-1/window_length_24/window_stepsize_2/low_res_rgb.pdf, id=3
 47, 267.10992pt x 267.10992pt>
@@ -1468,36 +1467,36 @@ _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
  [4
 
- <../plots/In030-cool-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf> <.
-./plots/In030-cool-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf> <../p
-lots/In030-cool-1/window_length_4/window_stepsize_2/low_res_rgb.pdf> <../plots/
-In030-cool-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf> <../plots/In0
-30-cool-1/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-co
-ol-1/window_length_12/window_stepsize_2/img_stk_000_0.pdf> <../plots/In030-cool
--1/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-cool-1/w
-indow_length_16/window_stepsize_2/img_stk_000_0.pdf> <../plots/In030-cool-1/win
-dow_length_16/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-cool-1/window_
-length_20/window_stepsize_2/img_stk_000_0.pdf> <../plots/In030-cool-1/window_le
-ngth_20/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-cool-1/window_length
-_24/window_stepsize_2/img_stk_000_0.pdf> <../plots/In030-cool-1/window_length_2
-4/window_stepsize_2/low_res_rgb.pdf>]
-<../plots/In030-cool-2/window_length_2/window_stepsize_2/img_stk_000_0.pdf, id=
-426, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-2/window_length_2/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In030-cool-2/window_length_2/window_stepsize_2/img_stk_000_0.pdf>
-
+ <../plots/In030-cool-1/window_length_2/window_stepsize_2/img_stk_last_0.pdf> <
+../plots/In030-cool-1/window_length_4/window_stepsize_2/img_stk_last_0.pdf> <..
+/plots/In030-cool-1/window_length_4/window_stepsize_2/low_res_rgb.pdf> <../plot
+s/In030-cool-1/window_length_8/window_stepsize_2/img_stk_last_0.pdf> <../plots/
+In030-cool-1/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../plots/In030
+-cool-1/window_length_12/window_stepsize_2/img_stk_last_0.pdf> <../plots/In030-
+cool-1/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-cool
+-1/window_length_16/window_stepsize_2/img_stk_last_0.pdf> <../plots/In030-cool-
+1/window_length_16/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-cool-1/wi
+ndow_length_20/window_stepsize_2/img_stk_last_0.pdf> <../plots/In030-cool-1/win
+dow_length_20/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-cool-1/window_
+length_24/window_stepsize_2/img_stk_last_0.pdf> <../plots/In030-cool-1/window_l
+ength_24/window_stepsize_2/low_res_rgb.pdf>]
+<../plots/In030-cool-2/window_length_2/window_stepsize_2/img_stk_last_0.pdf, id
+=426, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-2/window_length_2/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In030-cool-2/window_length_2/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In030-cool-2/window_length_2/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
-<../plots/In030-cool-2/window_length_4/window_stepsize_2/img_stk_000_0.pdf, id=
-427, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-2/window_length_4/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In030-cool-2/window_length_4/window_stepsize_2/img_stk_000_0.pdf>
-
+<../plots/In030-cool-2/window_length_4/window_stepsize_2/img_stk_last_0.pdf, id
+=427, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-2/window_length_4/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In030-cool-2/window_length_4/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In030-cool-2/window_length_4/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In030-cool-2/window_length_4/window_stepsize_2/low_res_rgb.pdf, id=42
 9, 267.10992pt x 267.10992pt>
@@ -1507,14 +1506,14 @@ raphic file (type pdf)
 Package pdftex.def Info: ../plots/In030-cool-2/window_length_4/window_stepsize_
 2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In030-cool-2/window_length_8/window_stepsize_2/img_stk_000_0.pdf, id=
-431, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-2/window_length_8/window_stepsize_2/img_stk_000_0.pdf
- Graphic file (type pdf)
-<use ../plots/In030-cool-2/window_length_8/window_stepsize_2/img_stk_000_0.pdf>
-
+<../plots/In030-cool-2/window_length_8/window_stepsize_2/img_stk_last_0.pdf, id
+=431, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-2/window_length_8/window_stepsize_2/img_stk_last_0.pd
+f Graphic file (type pdf)
+<use ../plots/In030-cool-2/window_length_8/window_stepsize_2/img_stk_last_0.pdf
+>
 Package pdftex.def Info: ../plots/In030-cool-2/window_length_8/window_stepsize_
-2/img_stk_000_0.pdf  used on input line 50.
+2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In030-cool-2/window_length_8/window_stepsize_2/low_res_rgb.pdf, id=43
 3, 267.10992pt x 267.10992pt>
@@ -1524,14 +1523,14 @@ raphic file (type pdf)
 Package pdftex.def Info: ../plots/In030-cool-2/window_length_8/window_stepsize_
 2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In030-cool-2/window_length_12/window_stepsize_2/img_stk_000_0.pdf, id
-=435, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-2/window_length_12/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In030-cool-2/window_length_12/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In030-cool-2/window_length_12/window_stepsize_2/img_stk_last_0.pdf, i
+d=435, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-2/window_length_12/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In030-cool-2/window_length_12/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In030-cool-2/window_length_12/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In030-cool-2/window_length_12/window_stepsize_2/low_res_rgb.pdf, id=4
 37, 267.10992pt x 267.10992pt>
@@ -1541,14 +1540,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In030-cool-2/window_length_12/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In030-cool-2/window_length_16/window_stepsize_2/img_stk_000_0.pdf, id
-=439, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-2/window_length_16/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In030-cool-2/window_length_16/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In030-cool-2/window_length_16/window_stepsize_2/img_stk_last_0.pdf, i
+d=439, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-2/window_length_16/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In030-cool-2/window_length_16/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In030-cool-2/window_length_16/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In030-cool-2/window_length_16/window_stepsize_2/low_res_rgb.pdf, id=4
 41, 267.10992pt x 267.10992pt>
@@ -1558,14 +1557,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In030-cool-2/window_length_16/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In030-cool-2/window_length_20/window_stepsize_2/img_stk_000_0.pdf, id
-=443, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-2/window_length_20/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In030-cool-2/window_length_20/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In030-cool-2/window_length_20/window_stepsize_2/img_stk_last_0.pdf, i
+d=443, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-2/window_length_20/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In030-cool-2/window_length_20/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In030-cool-2/window_length_20/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In030-cool-2/window_length_20/window_stepsize_2/low_res_rgb.pdf, id=4
 45, 267.10992pt x 267.10992pt>
@@ -1575,14 +1574,14 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In030-cool-2/window_length_20/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/In030-cool-2/window_length_24/window_stepsize_2/img_stk_000_0.pdf, id
-=447, 36.135pt x 36.135pt>
-File: ../plots/In030-cool-2/window_length_24/window_stepsize_2/img_stk_000_0.pd
-f Graphic file (type pdf)
-<use ../plots/In030-cool-2/window_length_24/window_stepsize_2/img_stk_000_0.pdf
->
+<../plots/In030-cool-2/window_length_24/window_stepsize_2/img_stk_last_0.pdf, i
+d=447, 36.135pt x 36.135pt>
+File: ../plots/In030-cool-2/window_length_24/window_stepsize_2/img_stk_last_0.p
+df Graphic file (type pdf)
+<use ../plots/In030-cool-2/window_length_24/window_stepsize_2/img_stk_last_0.pd
+f>
 Package pdftex.def Info: ../plots/In030-cool-2/window_length_24/window_stepsize
-_2/img_stk_000_0.pdf  used on input line 50.
+_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/In030-cool-2/window_length_24/window_stepsize_2/low_res_rgb.pdf, id=4
 49, 267.10992pt x 267.10992pt>
@@ -1592,38 +1591,38 @@ Graphic file (type pdf)
 Package pdftex.def Info: ../plots/In030-cool-2/window_length_24/window_stepsize
 _2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-[5
+ [5
 
- <../plots/In030-cool-2/window_length_2/window_stepsize_2/img_stk_000_0.pdf> <.
-./plots/In030-cool-2/window_length_4/window_stepsize_2/img_stk_000_0.pdf> <../p
-lots/In030-cool-2/window_length_4/window_stepsize_2/low_res_rgb.pdf> <../plots/
-In030-cool-2/window_length_8/window_stepsize_2/img_stk_000_0.pdf> <../plots/In0
-30-cool-2/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-co
-ol-2/window_length_12/window_stepsize_2/img_stk_000_0.pdf> <../plots/In030-cool
--2/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-cool-2/w
-indow_length_16/window_stepsize_2/img_stk_000_0.pdf> <../plots/In030-cool-2/win
-dow_length_16/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-cool-2/window_
-length_20/window_stepsize_2/img_stk_000_0.pdf> <../plots/In030-cool-2/window_le
-ngth_20/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-cool-2/window_length
-_24/window_stepsize_2/img_stk_000_0.pdf> <../plots/In030-cool-2/window_length_2
-4/window_stepsize_2/low_res_rgb.pdf>]
-<../plots/undoped-cool-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf, i
-d=528, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-1/window_length_2/window_stepsize_2/img_stk_000_0.p
-df Graphic file (type pdf)
-<use ../plots/undoped-cool-1/window_length_2/window_stepsize_2/img_stk_000_0.pd
-f>
+ <../plots/In030-cool-2/window_length_2/window_stepsize_2/img_stk_last_0.pdf> <
+../plots/In030-cool-2/window_length_4/window_stepsize_2/img_stk_last_0.pdf> <..
+/plots/In030-cool-2/window_length_4/window_stepsize_2/low_res_rgb.pdf> <../plot
+s/In030-cool-2/window_length_8/window_stepsize_2/img_stk_last_0.pdf> <../plots/
+In030-cool-2/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../plots/In030
+-cool-2/window_length_12/window_stepsize_2/img_stk_last_0.pdf> <../plots/In030-
+cool-2/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-cool
+-2/window_length_16/window_stepsize_2/img_stk_last_0.pdf> <../plots/In030-cool-
+2/window_length_16/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-cool-2/wi
+ndow_length_20/window_stepsize_2/img_stk_last_0.pdf> <../plots/In030-cool-2/win
+dow_length_20/window_stepsize_2/low_res_rgb.pdf> <../plots/In030-cool-2/window_
+length_24/window_stepsize_2/img_stk_last_0.pdf> <../plots/In030-cool-2/window_l
+ength_24/window_stepsize_2/low_res_rgb.pdf>]
+<../plots/undoped-cool-1/window_length_2/window_stepsize_2/img_stk_last_0.pdf, 
+id=528, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-1/window_length_2/window_stepsize_2/img_stk_last_0.
+pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-1/window_length_2/window_stepsize_2/img_stk_last_0.p
+df>
 Package pdftex.def Info: ../plots/undoped-cool-1/window_length_2/window_stepsiz
-e_2/img_stk_000_0.pdf  used on input line 50.
+e_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
-<../plots/undoped-cool-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf, i
-d=529, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-1/window_length_4/window_stepsize_2/img_stk_000_0.p
-df Graphic file (type pdf)
-<use ../plots/undoped-cool-1/window_length_4/window_stepsize_2/img_stk_000_0.pd
-f>
+<../plots/undoped-cool-1/window_length_4/window_stepsize_2/img_stk_last_0.pdf, 
+id=529, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-1/window_length_4/window_stepsize_2/img_stk_last_0.
+pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-1/window_length_4/window_stepsize_2/img_stk_last_0.p
+df>
 Package pdftex.def Info: ../plots/undoped-cool-1/window_length_4/window_stepsiz
-e_2/img_stk_000_0.pdf  used on input line 50.
+e_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-cool-1/window_length_4/window_stepsize_2/low_res_rgb.pdf, id=
 531, 267.10992pt x 267.10992pt>
@@ -1634,14 +1633,14 @@ File: ../plots/undoped-cool-1/window_length_4/window_stepsize_2/low_res_rgb.pdf
 Package pdftex.def Info: ../plots/undoped-cool-1/window_length_4/window_stepsiz
 e_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-cool-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf, i
-d=533, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-1/window_length_8/window_stepsize_2/img_stk_000_0.p
-df Graphic file (type pdf)
-<use ../plots/undoped-cool-1/window_length_8/window_stepsize_2/img_stk_000_0.pd
-f>
+<../plots/undoped-cool-1/window_length_8/window_stepsize_2/img_stk_last_0.pdf, 
+id=533, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-1/window_length_8/window_stepsize_2/img_stk_last_0.
+pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-1/window_length_8/window_stepsize_2/img_stk_last_0.p
+df>
 Package pdftex.def Info: ../plots/undoped-cool-1/window_length_8/window_stepsiz
-e_2/img_stk_000_0.pdf  used on input line 50.
+e_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-cool-1/window_length_8/window_stepsize_2/low_res_rgb.pdf, id=
 535, 267.10992pt x 267.10992pt>
@@ -1652,14 +1651,14 @@ File: ../plots/undoped-cool-1/window_length_8/window_stepsize_2/low_res_rgb.pdf
 Package pdftex.def Info: ../plots/undoped-cool-1/window_length_8/window_stepsiz
 e_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-cool-1/window_length_12/window_stepsize_2/img_stk_000_0.pdf, 
-id=537, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-1/window_length_12/window_stepsize_2/img_stk_000_0.
-pdf Graphic file (type pdf)
-<use ../plots/undoped-cool-1/window_length_12/window_stepsize_2/img_stk_000_0.p
-df>
+<../plots/undoped-cool-1/window_length_12/window_stepsize_2/img_stk_last_0.pdf,
+ id=537, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-1/window_length_12/window_stepsize_2/img_stk_last_0
+.pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-1/window_length_12/window_stepsize_2/img_stk_last_0.
+pdf>
 Package pdftex.def Info: ../plots/undoped-cool-1/window_length_12/window_stepsi
-ze_2/img_stk_000_0.pdf  used on input line 50.
+ze_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-cool-1/window_length_12/window_stepsize_2/low_res_rgb.pdf, id
 =539, 267.10992pt x 267.10992pt>
@@ -1670,14 +1669,14 @@ f Graphic file (type pdf)
 Package pdftex.def Info: ../plots/undoped-cool-1/window_length_12/window_stepsi
 ze_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-cool-1/window_length_16/window_stepsize_2/img_stk_000_0.pdf, 
-id=541, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-1/window_length_16/window_stepsize_2/img_stk_000_0.
-pdf Graphic file (type pdf)
-<use ../plots/undoped-cool-1/window_length_16/window_stepsize_2/img_stk_000_0.p
-df>
+<../plots/undoped-cool-1/window_length_16/window_stepsize_2/img_stk_last_0.pdf,
+ id=541, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-1/window_length_16/window_stepsize_2/img_stk_last_0
+.pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-1/window_length_16/window_stepsize_2/img_stk_last_0.
+pdf>
 Package pdftex.def Info: ../plots/undoped-cool-1/window_length_16/window_stepsi
-ze_2/img_stk_000_0.pdf  used on input line 50.
+ze_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-cool-1/window_length_16/window_stepsize_2/low_res_rgb.pdf, id
 =543, 267.10992pt x 267.10992pt>
@@ -1688,14 +1687,14 @@ f Graphic file (type pdf)
 Package pdftex.def Info: ../plots/undoped-cool-1/window_length_16/window_stepsi
 ze_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-cool-1/window_length_20/window_stepsize_2/img_stk_000_0.pdf, 
-id=545, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-1/window_length_20/window_stepsize_2/img_stk_000_0.
-pdf Graphic file (type pdf)
-<use ../plots/undoped-cool-1/window_length_20/window_stepsize_2/img_stk_000_0.p
-df>
+<../plots/undoped-cool-1/window_length_20/window_stepsize_2/img_stk_last_0.pdf,
+ id=545, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-1/window_length_20/window_stepsize_2/img_stk_last_0
+.pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-1/window_length_20/window_stepsize_2/img_stk_last_0.
+pdf>
 Package pdftex.def Info: ../plots/undoped-cool-1/window_length_20/window_stepsi
-ze_2/img_stk_000_0.pdf  used on input line 50.
+ze_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-cool-1/window_length_20/window_stepsize_2/low_res_rgb.pdf, id
 =547, 267.10992pt x 267.10992pt>
@@ -1706,14 +1705,14 @@ f Graphic file (type pdf)
 Package pdftex.def Info: ../plots/undoped-cool-1/window_length_20/window_stepsi
 ze_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-cool-1/window_length_24/window_stepsize_2/img_stk_000_0.pdf, 
-id=549, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-1/window_length_24/window_stepsize_2/img_stk_000_0.
-pdf Graphic file (type pdf)
-<use ../plots/undoped-cool-1/window_length_24/window_stepsize_2/img_stk_000_0.p
-df>
+<../plots/undoped-cool-1/window_length_24/window_stepsize_2/img_stk_last_0.pdf,
+ id=549, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-1/window_length_24/window_stepsize_2/img_stk_last_0
+.pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-1/window_length_24/window_stepsize_2/img_stk_last_0.
+pdf>
 Package pdftex.def Info: ../plots/undoped-cool-1/window_length_24/window_stepsi
-ze_2/img_stk_000_0.pdf  used on input line 50.
+ze_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-cool-1/window_length_24/window_stepsize_2/low_res_rgb.pdf, id
 =551, 267.10992pt x 267.10992pt>
@@ -1726,36 +1725,36 @@ ze_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
  [6
 
- <../plots/undoped-cool-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf> 
-<../plots/undoped-cool-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf> <
-../plots/undoped-cool-1/window_length_4/window_stepsize_2/low_res_rgb.pdf> <../
-plots/undoped-cool-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf> <../p
-lots/undoped-cool-1/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../plot
-s/undoped-cool-1/window_length_12/window_stepsize_2/img_stk_000_0.pdf> <../plot
-s/undoped-cool-1/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../plots/
-undoped-cool-1/window_length_16/window_stepsize_2/img_stk_000_0.pdf> <../plots/
-undoped-cool-1/window_length_16/window_stepsize_2/low_res_rgb.pdf> <../plots/un
-doped-cool-1/window_length_20/window_stepsize_2/img_stk_000_0.pdf> <../plots/un
-doped-cool-1/window_length_20/window_stepsize_2/low_res_rgb.pdf> <../plots/undo
-ped-cool-1/window_length_24/window_stepsize_2/img_stk_000_0.pdf> <../plots/undo
-ped-cool-1/window_length_24/window_stepsize_2/low_res_rgb.pdf>]
-<../plots/undoped-cool-2/window_length_2/window_stepsize_2/img_stk_000_0.pdf, i
-d=629, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-2/window_length_2/window_stepsize_2/img_stk_000_0.p
-df Graphic file (type pdf)
-<use ../plots/undoped-cool-2/window_length_2/window_stepsize_2/img_stk_000_0.pd
-f>
+ <../plots/undoped-cool-1/window_length_2/window_stepsize_2/img_stk_last_0.pdf>
+ <../plots/undoped-cool-1/window_length_4/window_stepsize_2/img_stk_last_0.pdf>
+ <../plots/undoped-cool-1/window_length_4/window_stepsize_2/low_res_rgb.pdf> <.
+./plots/undoped-cool-1/window_length_8/window_stepsize_2/img_stk_last_0.pdf> <.
+./plots/undoped-cool-1/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../p
+lots/undoped-cool-1/window_length_12/window_stepsize_2/img_stk_last_0.pdf> <../
+plots/undoped-cool-1/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../pl
+ots/undoped-cool-1/window_length_16/window_stepsize_2/img_stk_last_0.pdf> <../p
+lots/undoped-cool-1/window_length_16/window_stepsize_2/low_res_rgb.pdf> <../plo
+ts/undoped-cool-1/window_length_20/window_stepsize_2/img_stk_last_0.pdf> <../pl
+ots/undoped-cool-1/window_length_20/window_stepsize_2/low_res_rgb.pdf> <../plot
+s/undoped-cool-1/window_length_24/window_stepsize_2/img_stk_last_0.pdf> <../plo
+ts/undoped-cool-1/window_length_24/window_stepsize_2/low_res_rgb.pdf>]
+<../plots/undoped-cool-2/window_length_2/window_stepsize_2/img_stk_last_0.pdf, 
+id=629, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-2/window_length_2/window_stepsize_2/img_stk_last_0.
+pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-2/window_length_2/window_stepsize_2/img_stk_last_0.p
+df>
 Package pdftex.def Info: ../plots/undoped-cool-2/window_length_2/window_stepsiz
-e_2/img_stk_000_0.pdf  used on input line 50.
+e_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
-<../plots/undoped-cool-2/window_length_4/window_stepsize_2/img_stk_000_0.pdf, i
-d=630, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-2/window_length_4/window_stepsize_2/img_stk_000_0.p
-df Graphic file (type pdf)
-<use ../plots/undoped-cool-2/window_length_4/window_stepsize_2/img_stk_000_0.pd
-f>
+<../plots/undoped-cool-2/window_length_4/window_stepsize_2/img_stk_last_0.pdf, 
+id=630, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-2/window_length_4/window_stepsize_2/img_stk_last_0.
+pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-2/window_length_4/window_stepsize_2/img_stk_last_0.p
+df>
 Package pdftex.def Info: ../plots/undoped-cool-2/window_length_4/window_stepsiz
-e_2/img_stk_000_0.pdf  used on input line 50.
+e_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-cool-2/window_length_4/window_stepsize_2/low_res_rgb.pdf, id=
 632, 267.10992pt x 267.10992pt>
@@ -1766,14 +1765,14 @@ File: ../plots/undoped-cool-2/window_length_4/window_stepsize_2/low_res_rgb.pdf
 Package pdftex.def Info: ../plots/undoped-cool-2/window_length_4/window_stepsiz
 e_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-cool-2/window_length_8/window_stepsize_2/img_stk_000_0.pdf, i
-d=634, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-2/window_length_8/window_stepsize_2/img_stk_000_0.p
-df Graphic file (type pdf)
-<use ../plots/undoped-cool-2/window_length_8/window_stepsize_2/img_stk_000_0.pd
-f>
+<../plots/undoped-cool-2/window_length_8/window_stepsize_2/img_stk_last_0.pdf, 
+id=634, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-2/window_length_8/window_stepsize_2/img_stk_last_0.
+pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-2/window_length_8/window_stepsize_2/img_stk_last_0.p
+df>
 Package pdftex.def Info: ../plots/undoped-cool-2/window_length_8/window_stepsiz
-e_2/img_stk_000_0.pdf  used on input line 50.
+e_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-cool-2/window_length_8/window_stepsize_2/low_res_rgb.pdf, id=
 636, 267.10992pt x 267.10992pt>
@@ -1784,14 +1783,14 @@ File: ../plots/undoped-cool-2/window_length_8/window_stepsize_2/low_res_rgb.pdf
 Package pdftex.def Info: ../plots/undoped-cool-2/window_length_8/window_stepsiz
 e_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-cool-2/window_length_12/window_stepsize_2/img_stk_000_0.pdf, 
-id=638, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-2/window_length_12/window_stepsize_2/img_stk_000_0.
-pdf Graphic file (type pdf)
-<use ../plots/undoped-cool-2/window_length_12/window_stepsize_2/img_stk_000_0.p
-df>
+<../plots/undoped-cool-2/window_length_12/window_stepsize_2/img_stk_last_0.pdf,
+ id=638, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-2/window_length_12/window_stepsize_2/img_stk_last_0
+.pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-2/window_length_12/window_stepsize_2/img_stk_last_0.
+pdf>
 Package pdftex.def Info: ../plots/undoped-cool-2/window_length_12/window_stepsi
-ze_2/img_stk_000_0.pdf  used on input line 50.
+ze_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-cool-2/window_length_12/window_stepsize_2/low_res_rgb.pdf, id
 =640, 267.10992pt x 267.10992pt>
@@ -1802,14 +1801,14 @@ f Graphic file (type pdf)
 Package pdftex.def Info: ../plots/undoped-cool-2/window_length_12/window_stepsi
 ze_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-cool-2/window_length_16/window_stepsize_2/img_stk_000_0.pdf, 
-id=642, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-2/window_length_16/window_stepsize_2/img_stk_000_0.
-pdf Graphic file (type pdf)
-<use ../plots/undoped-cool-2/window_length_16/window_stepsize_2/img_stk_000_0.p
-df>
+<../plots/undoped-cool-2/window_length_16/window_stepsize_2/img_stk_last_0.pdf,
+ id=642, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-2/window_length_16/window_stepsize_2/img_stk_last_0
+.pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-2/window_length_16/window_stepsize_2/img_stk_last_0.
+pdf>
 Package pdftex.def Info: ../plots/undoped-cool-2/window_length_16/window_stepsi
-ze_2/img_stk_000_0.pdf  used on input line 50.
+ze_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-cool-2/window_length_16/window_stepsize_2/low_res_rgb.pdf, id
 =644, 267.10992pt x 267.10992pt>
@@ -1820,14 +1819,14 @@ f Graphic file (type pdf)
 Package pdftex.def Info: ../plots/undoped-cool-2/window_length_16/window_stepsi
 ze_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-cool-2/window_length_20/window_stepsize_2/img_stk_000_0.pdf, 
-id=646, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-2/window_length_20/window_stepsize_2/img_stk_000_0.
-pdf Graphic file (type pdf)
-<use ../plots/undoped-cool-2/window_length_20/window_stepsize_2/img_stk_000_0.p
-df>
+<../plots/undoped-cool-2/window_length_20/window_stepsize_2/img_stk_last_0.pdf,
+ id=646, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-2/window_length_20/window_stepsize_2/img_stk_last_0
+.pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-2/window_length_20/window_stepsize_2/img_stk_last_0.
+pdf>
 Package pdftex.def Info: ../plots/undoped-cool-2/window_length_20/window_stepsi
-ze_2/img_stk_000_0.pdf  used on input line 50.
+ze_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-cool-2/window_length_20/window_stepsize_2/low_res_rgb.pdf, id
 =648, 267.10992pt x 267.10992pt>
@@ -1838,14 +1837,14 @@ f Graphic file (type pdf)
 Package pdftex.def Info: ../plots/undoped-cool-2/window_length_20/window_stepsi
 ze_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-cool-2/window_length_24/window_stepsize_2/img_stk_000_0.pdf, 
-id=650, 36.135pt x 36.135pt>
-File: ../plots/undoped-cool-2/window_length_24/window_stepsize_2/img_stk_000_0.
-pdf Graphic file (type pdf)
-<use ../plots/undoped-cool-2/window_length_24/window_stepsize_2/img_stk_000_0.p
-df>
+<../plots/undoped-cool-2/window_length_24/window_stepsize_2/img_stk_last_0.pdf,
+ id=650, 36.135pt x 36.135pt>
+File: ../plots/undoped-cool-2/window_length_24/window_stepsize_2/img_stk_last_0
+.pdf Graphic file (type pdf)
+<use ../plots/undoped-cool-2/window_length_24/window_stepsize_2/img_stk_last_0.
+pdf>
 Package pdftex.def Info: ../plots/undoped-cool-2/window_length_24/window_stepsi
-ze_2/img_stk_000_0.pdf  used on input line 50.
+ze_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-cool-2/window_length_24/window_stepsize_2/low_res_rgb.pdf, id
 =652, 267.10992pt x 267.10992pt>
@@ -1858,36 +1857,36 @@ ze_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
  [7
 
- <../plots/undoped-cool-2/window_length_2/window_stepsize_2/img_stk_000_0.pdf> 
-<../plots/undoped-cool-2/window_length_4/window_stepsize_2/img_stk_000_0.pdf> <
-../plots/undoped-cool-2/window_length_4/window_stepsize_2/low_res_rgb.pdf> <../
-plots/undoped-cool-2/window_length_8/window_stepsize_2/img_stk_000_0.pdf> <../p
-lots/undoped-cool-2/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../plot
-s/undoped-cool-2/window_length_12/window_stepsize_2/img_stk_000_0.pdf> <../plot
-s/undoped-cool-2/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../plots/
-undoped-cool-2/window_length_16/window_stepsize_2/img_stk_000_0.pdf> <../plots/
-undoped-cool-2/window_length_16/window_stepsize_2/low_res_rgb.pdf> <../plots/un
-doped-cool-2/window_length_20/window_stepsize_2/img_stk_000_0.pdf> <../plots/un
-doped-cool-2/window_length_20/window_stepsize_2/low_res_rgb.pdf> <../plots/undo
-ped-cool-2/window_length_24/window_stepsize_2/img_stk_000_0.pdf> <../plots/undo
-ped-cool-2/window_length_24/window_stepsize_2/low_res_rgb.pdf>]
-<../plots/undoped-heat-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf, i
-d=731, 36.135pt x 36.135pt>
-File: ../plots/undoped-heat-1/window_length_2/window_stepsize_2/img_stk_000_0.p
-df Graphic file (type pdf)
-<use ../plots/undoped-heat-1/window_length_2/window_stepsize_2/img_stk_000_0.pd
-f>
+ <../plots/undoped-cool-2/window_length_2/window_stepsize_2/img_stk_last_0.pdf>
+ <../plots/undoped-cool-2/window_length_4/window_stepsize_2/img_stk_last_0.pdf>
+ <../plots/undoped-cool-2/window_length_4/window_stepsize_2/low_res_rgb.pdf> <.
+./plots/undoped-cool-2/window_length_8/window_stepsize_2/img_stk_last_0.pdf> <.
+./plots/undoped-cool-2/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../p
+lots/undoped-cool-2/window_length_12/window_stepsize_2/img_stk_last_0.pdf> <../
+plots/undoped-cool-2/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../pl
+ots/undoped-cool-2/window_length_16/window_stepsize_2/img_stk_last_0.pdf> <../p
+lots/undoped-cool-2/window_length_16/window_stepsize_2/low_res_rgb.pdf> <../plo
+ts/undoped-cool-2/window_length_20/window_stepsize_2/img_stk_last_0.pdf> <../pl
+ots/undoped-cool-2/window_length_20/window_stepsize_2/low_res_rgb.pdf> <../plot
+s/undoped-cool-2/window_length_24/window_stepsize_2/img_stk_last_0.pdf> <../plo
+ts/undoped-cool-2/window_length_24/window_stepsize_2/low_res_rgb.pdf>]
+<../plots/undoped-heat-1/window_length_2/window_stepsize_2/img_stk_last_0.pdf, 
+id=731, 36.135pt x 36.135pt>
+File: ../plots/undoped-heat-1/window_length_2/window_stepsize_2/img_stk_last_0.
+pdf Graphic file (type pdf)
+<use ../plots/undoped-heat-1/window_length_2/window_stepsize_2/img_stk_last_0.p
+df>
 Package pdftex.def Info: ../plots/undoped-heat-1/window_length_2/window_stepsiz
-e_2/img_stk_000_0.pdf  used on input line 50.
+e_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
-<../plots/undoped-heat-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf, i
-d=732, 36.135pt x 36.135pt>
-File: ../plots/undoped-heat-1/window_length_4/window_stepsize_2/img_stk_000_0.p
-df Graphic file (type pdf)
-<use ../plots/undoped-heat-1/window_length_4/window_stepsize_2/img_stk_000_0.pd
-f>
+<../plots/undoped-heat-1/window_length_4/window_stepsize_2/img_stk_last_0.pdf, 
+id=732, 36.135pt x 36.135pt>
+File: ../plots/undoped-heat-1/window_length_4/window_stepsize_2/img_stk_last_0.
+pdf Graphic file (type pdf)
+<use ../plots/undoped-heat-1/window_length_4/window_stepsize_2/img_stk_last_0.p
+df>
 Package pdftex.def Info: ../plots/undoped-heat-1/window_length_4/window_stepsiz
-e_2/img_stk_000_0.pdf  used on input line 50.
+e_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-heat-1/window_length_4/window_stepsize_2/low_res_rgb.pdf, id=
 734, 267.10992pt x 267.10992pt>
@@ -1898,14 +1897,14 @@ File: ../plots/undoped-heat-1/window_length_4/window_stepsize_2/low_res_rgb.pdf
 Package pdftex.def Info: ../plots/undoped-heat-1/window_length_4/window_stepsiz
 e_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-heat-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf, i
-d=736, 36.135pt x 36.135pt>
-File: ../plots/undoped-heat-1/window_length_8/window_stepsize_2/img_stk_000_0.p
-df Graphic file (type pdf)
-<use ../plots/undoped-heat-1/window_length_8/window_stepsize_2/img_stk_000_0.pd
-f>
+<../plots/undoped-heat-1/window_length_8/window_stepsize_2/img_stk_last_0.pdf, 
+id=736, 36.135pt x 36.135pt>
+File: ../plots/undoped-heat-1/window_length_8/window_stepsize_2/img_stk_last_0.
+pdf Graphic file (type pdf)
+<use ../plots/undoped-heat-1/window_length_8/window_stepsize_2/img_stk_last_0.p
+df>
 Package pdftex.def Info: ../plots/undoped-heat-1/window_length_8/window_stepsiz
-e_2/img_stk_000_0.pdf  used on input line 50.
+e_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-heat-1/window_length_8/window_stepsize_2/low_res_rgb.pdf, id=
 738, 267.10992pt x 267.10992pt>
@@ -1916,14 +1915,14 @@ File: ../plots/undoped-heat-1/window_length_8/window_stepsize_2/low_res_rgb.pdf
 Package pdftex.def Info: ../plots/undoped-heat-1/window_length_8/window_stepsiz
 e_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-heat-1/window_length_12/window_stepsize_2/img_stk_000_0.pdf, 
-id=740, 36.135pt x 36.135pt>
-File: ../plots/undoped-heat-1/window_length_12/window_stepsize_2/img_stk_000_0.
-pdf Graphic file (type pdf)
-<use ../plots/undoped-heat-1/window_length_12/window_stepsize_2/img_stk_000_0.p
-df>
+<../plots/undoped-heat-1/window_length_12/window_stepsize_2/img_stk_last_0.pdf,
+ id=740, 36.135pt x 36.135pt>
+File: ../plots/undoped-heat-1/window_length_12/window_stepsize_2/img_stk_last_0
+.pdf Graphic file (type pdf)
+<use ../plots/undoped-heat-1/window_length_12/window_stepsize_2/img_stk_last_0.
+pdf>
 Package pdftex.def Info: ../plots/undoped-heat-1/window_length_12/window_stepsi
-ze_2/img_stk_000_0.pdf  used on input line 50.
+ze_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-heat-1/window_length_12/window_stepsize_2/low_res_rgb.pdf, id
 =742, 267.10992pt x 267.10992pt>
@@ -1934,14 +1933,14 @@ f Graphic file (type pdf)
 Package pdftex.def Info: ../plots/undoped-heat-1/window_length_12/window_stepsi
 ze_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-heat-1/window_length_16/window_stepsize_2/img_stk_000_0.pdf, 
-id=744, 36.135pt x 36.135pt>
-File: ../plots/undoped-heat-1/window_length_16/window_stepsize_2/img_stk_000_0.
-pdf Graphic file (type pdf)
-<use ../plots/undoped-heat-1/window_length_16/window_stepsize_2/img_stk_000_0.p
-df>
+<../plots/undoped-heat-1/window_length_16/window_stepsize_2/img_stk_last_0.pdf,
+ id=744, 36.135pt x 36.135pt>
+File: ../plots/undoped-heat-1/window_length_16/window_stepsize_2/img_stk_last_0
+.pdf Graphic file (type pdf)
+<use ../plots/undoped-heat-1/window_length_16/window_stepsize_2/img_stk_last_0.
+pdf>
 Package pdftex.def Info: ../plots/undoped-heat-1/window_length_16/window_stepsi
-ze_2/img_stk_000_0.pdf  used on input line 50.
+ze_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-heat-1/window_length_16/window_stepsize_2/low_res_rgb.pdf, id
 =746, 267.10992pt x 267.10992pt>
@@ -1952,14 +1951,14 @@ f Graphic file (type pdf)
 Package pdftex.def Info: ../plots/undoped-heat-1/window_length_16/window_stepsi
 ze_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-heat-1/window_length_20/window_stepsize_2/img_stk_000_0.pdf, 
-id=748, 36.135pt x 36.135pt>
-File: ../plots/undoped-heat-1/window_length_20/window_stepsize_2/img_stk_000_0.
-pdf Graphic file (type pdf)
-<use ../plots/undoped-heat-1/window_length_20/window_stepsize_2/img_stk_000_0.p
-df>
+<../plots/undoped-heat-1/window_length_20/window_stepsize_2/img_stk_last_0.pdf,
+ id=748, 36.135pt x 36.135pt>
+File: ../plots/undoped-heat-1/window_length_20/window_stepsize_2/img_stk_last_0
+.pdf Graphic file (type pdf)
+<use ../plots/undoped-heat-1/window_length_20/window_stepsize_2/img_stk_last_0.
+pdf>
 Package pdftex.def Info: ../plots/undoped-heat-1/window_length_20/window_stepsi
-ze_2/img_stk_000_0.pdf  used on input line 50.
+ze_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-heat-1/window_length_20/window_stepsize_2/low_res_rgb.pdf, id
 =750, 267.10992pt x 267.10992pt>
@@ -1970,14 +1969,14 @@ f Graphic file (type pdf)
 Package pdftex.def Info: ../plots/undoped-heat-1/window_length_20/window_stepsi
 ze_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
-<../plots/undoped-heat-1/window_length_24/window_stepsize_2/img_stk_000_0.pdf, 
-id=752, 36.135pt x 36.135pt>
-File: ../plots/undoped-heat-1/window_length_24/window_stepsize_2/img_stk_000_0.
-pdf Graphic file (type pdf)
-<use ../plots/undoped-heat-1/window_length_24/window_stepsize_2/img_stk_000_0.p
-df>
+<../plots/undoped-heat-1/window_length_24/window_stepsize_2/img_stk_last_0.pdf,
+ id=752, 36.135pt x 36.135pt>
+File: ../plots/undoped-heat-1/window_length_24/window_stepsize_2/img_stk_last_0
+.pdf Graphic file (type pdf)
+<use ../plots/undoped-heat-1/window_length_24/window_stepsize_2/img_stk_last_0.
+pdf>
 Package pdftex.def Info: ../plots/undoped-heat-1/window_length_24/window_stepsi
-ze_2/img_stk_000_0.pdf  used on input line 50.
+ze_2/img_stk_last_0.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13559pt x 71.13188pt.
 <../plots/undoped-heat-1/window_length_24/window_stepsize_2/low_res_rgb.pdf, id
 =754, 267.10992pt x 267.10992pt>
@@ -1990,19 +1989,19 @@ ze_2/low_res_rgb.pdf  used on input line 50.
 (pdftex.def)             Requested size: 71.13022pt x 71.13188pt.
  [8
 
- <../plots/undoped-heat-1/window_length_2/window_stepsize_2/img_stk_000_0.pdf> 
-<../plots/undoped-heat-1/window_length_4/window_stepsize_2/img_stk_000_0.pdf> <
-../plots/undoped-heat-1/window_length_4/window_stepsize_2/low_res_rgb.pdf> <../
-plots/undoped-heat-1/window_length_8/window_stepsize_2/img_stk_000_0.pdf> <../p
-lots/undoped-heat-1/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../plot
-s/undoped-heat-1/window_length_12/window_stepsize_2/img_stk_000_0.pdf> <../plot
-s/undoped-heat-1/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../plots/
-undoped-heat-1/window_length_16/window_stepsize_2/img_stk_000_0.pdf> <../plots/
-undoped-heat-1/window_length_16/window_stepsize_2/low_res_rgb.pdf> <../plots/un
-doped-heat-1/window_length_20/window_stepsize_2/img_stk_000_0.pdf> <../plots/un
-doped-heat-1/window_length_20/window_stepsize_2/low_res_rgb.pdf> <../plots/undo
-ped-heat-1/window_length_24/window_stepsize_2/img_stk_000_0.pdf> <../plots/undo
-ped-heat-1/window_length_24/window_stepsize_2/low_res_rgb.pdf>]
+ <../plots/undoped-heat-1/window_length_2/window_stepsize_2/img_stk_last_0.pdf>
+ <../plots/undoped-heat-1/window_length_4/window_stepsize_2/img_stk_last_0.pdf>
+ <../plots/undoped-heat-1/window_length_4/window_stepsize_2/low_res_rgb.pdf> <.
+./plots/undoped-heat-1/window_length_8/window_stepsize_2/img_stk_last_0.pdf> <.
+./plots/undoped-heat-1/window_length_8/window_stepsize_2/low_res_rgb.pdf> <../p
+lots/undoped-heat-1/window_length_12/window_stepsize_2/img_stk_last_0.pdf> <../
+plots/undoped-heat-1/window_length_12/window_stepsize_2/low_res_rgb.pdf> <../pl
+ots/undoped-heat-1/window_length_16/window_stepsize_2/img_stk_last_0.pdf> <../p
+lots/undoped-heat-1/window_length_16/window_stepsize_2/low_res_rgb.pdf> <../plo
+ts/undoped-heat-1/window_length_20/window_stepsize_2/img_stk_last_0.pdf> <../pl
+ots/undoped-heat-1/window_length_20/window_stepsize_2/low_res_rgb.pdf> <../plot
+s/undoped-heat-1/window_length_24/window_stepsize_2/img_stk_last_0.pdf> <../plo
+ts/undoped-heat-1/window_length_24/window_stepsize_2/low_res_rgb.pdf>]
 \tf@nav=\write6
 \openout6 = `summary.nav'.
 
@@ -2012,7 +2011,7 @@ ped-heat-1/window_length_24/window_stepsize_2/low_res_rgb.pdf>]
 \tf@snm=\write8
 \openout8 = `summary.snm'.
 
-(.build/summary.aux)
+ (.build/summary.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -2022,7 +2021,7 @@ Package rerunfilecheck Info: File `summary.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  25537 strings out of 474116
- 553731 string characters out of 5743682
+ 554123 string characters out of 5743682
  1949187 words of memory out of 5000000
  47387 multiletter control sequences out of 15000+600000
  564386 words of font info for 59 fonts, out of 8000000 for 9000
@@ -2032,7 +2031,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></
 usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></u
 sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on .build/summary.pdf (8 pages, 422275 bytes).
+Output written on .build/summary.pdf (8 pages, 547202 bytes).
 PDF statistics:
  856 PDF objects out of 1000 (max. 8388607)
  522 compressed objects within 6 object streams
